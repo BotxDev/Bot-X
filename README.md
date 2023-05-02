@@ -7,8 +7,7 @@ BotX is an open-source Discord bot built by the community for the community. Wit
 
 ## Installation
 
-   `bash
-   npm install `
+   `npm install `
 
 ## Usage
 
@@ -16,8 +15,7 @@ Create a .env file in ./botx/*
 
 Include your DISCORD_TOKEN and GOOGLE_CLOUD_API_KEY. If you do not want auto translation, leave out the API key.
 
-`bash
-   node ./bot.js `
+`node ./bot.js `
 
 ## Contributing
 
