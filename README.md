@@ -3,20 +3,21 @@
 
 # BotX
 
-Brief description of what the repo does.
-
-## Installation
-
 BotX is an open-source Discord bot built by the community for the community. With a focus on premium features, this bot is constantly evolving to meet the needs of Discord users. This repo contains the source code for BotX, allowing anyone to contribute to its development and join the growing community of users.
 
-## Usage
+## Installation
 
    `bash
    npm install `
 
+## Usage
+
 Create a .env file in ./botx/* 
 
 Include your DISCORD_TOKEN and GOOGLE_CLOUD_API_KEY. If you do not want auto translation, leave out the API key.
+
+`bash
+   node ./bot.js `
 
 ## Contributing
 
